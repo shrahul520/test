@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "flatted": "^3.3.2",
     "formik": "^2.4.6",
-    "next": "15.0.4",
+"next": "^14.0.0",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-slick": "^0.30.2",
